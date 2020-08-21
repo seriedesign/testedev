@@ -36,4 +36,4 @@ Sinta-se livre para criar e estruturar o projeto como acha melhor.
 
 Ao terminar as duas partes, solicite um pull request.
 
-**BOA SORTE**
+**BOA SORTE!**
