@@ -11,11 +11,12 @@ O objetivo deste teste fazer uma página em HTML e CSS, para o layout dado pelo 
 * Os produtos podem ser trazidos em html estático ou sendo puxado por alguma API;
 * O código deve ser responsivo, com o tamanho máximo de container de 1170px, podendo ter apenas quebras em 1024px, 768px e 520px;
 * No layout mobile você pode organizar os itens da forma que achar adequado;
-* Não é necessário fazer o carrosselfuncionar.
+* Não é necessário fazer o carrossel funcionar.
 * Deve-se usar a criatividade e o senso estético para codificar o site;
 * Pode-se usar JavaScript, JQuery, Vue etc., se julgar necessário;
-* É permitido usar qualquer editor de código e consultar a internet.
-* Suporte de Browsers: IE9+, Chrome, Safari, Firefox.
+* É permitido usar qualquer editor de código e consultar a internet;
+* Suporte de Browsers: IE9+, Chrome, Safari, Firefox;
+* Importe as fontes necessárias do Google Fonts;
 * É preferível que não seja usado nenhum frameworks CSS, como Bootstrap, por exemplo.
 
 **Itens avaliados:**
@@ -26,15 +27,12 @@ O objetivo deste teste fazer uma página em HTML e CSS, para o layout dado pelo 
 
 Sinta-se livre para criar e estruturar o projeto como acha melhor.
 
-Ao terminar, solicite um pull request.
-
 ## PARTE II - Teste de Javascript
 
-* Essa parte consiste em 10 perguntas;
+* Essa parte consiste em 10 perguntas contidas em "parte2/index.html";
 * É permitido o uso de JQuery;
-* As respostas podem devem ser feitas no arquivo "parte2/index.html".
+* As respostas podem devem ser feitas no mesmo arquivo.
 
+Ao terminar as duas partes do teste, solicite um pull request.
 
-Ao terminar as duas partes, solicite um pull request.
-
-**BOA SORTE**
+**BOA SORTE!**
