@@ -6,6 +6,7 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<title>PARTE II - Teste de Javascript</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -23,6 +24,7 @@
 
 		<!--- RESPOSTA 1 ---->
 		<script>
+			console.log('resposta 1');
 			//insira a resposta aqui.
 		</script>
 
@@ -31,6 +33,7 @@
 		<p>2)Crie uma função que receba dois parâmetros, o primeiro chamado 'texto' (string) e o segundo chamado 'vezes' (número), com o objetivo retornar uma nova string com o texto repetido quantas vezes foi passado no parâmetro 'vezes', separado por vírgula. Exibir esta nova string no console.</p>
 		<!--- RESPOSTA 2 ---->
 		<script>
+			console.log('resposta 2');
 			//insira a resposta aqui.
 		</script>
 
@@ -45,6 +48,7 @@
 
 		<!--- RESPOSTA 3 ---->
 		<script>
+			console.log('resposta 3');
 			//insira a resposta aqui.
 		</script>
 		<div class="border"></div>
@@ -63,6 +67,7 @@
 			<p>texto</p>
 		</div>
 		<script>
+			console.log('resposta 4');
 			//insira a resposta aqui.
 		</script>
 		<div class="border"></div>
@@ -71,12 +76,13 @@
 
 		<!--- RESPOSTA 5 ---->
 		<script>
+			console.log('resposta 5');
 			//insira a resposta aqui.
 		</script>
 		<div class="border"></div>
 		<!--- PERGUNTA 6 ---->
 		<p>6) Dado o objeto:</p>
-		<pre>var obj =<br>&nbsp;&nbsp;nomeObj: 'Mouse',<br>&nbsp;&nbsp;pesoObj: '150g'<br>}</pre>
+		<pre>var obj = {<br>&nbsp;&nbsp;nomeObj: 'Mouse',<br>&nbsp;&nbsp;pesoObj: '150g'<br>}</pre>
 		<p>Faça uma função que:</p>
 		<ol>
 			<li>modifique o nomeObj para 'Teclado' e o pesoObj para '500g';</li>
@@ -85,11 +91,12 @@
 		</ol>
 		<!--- RESPOSTA 6 ---->
 		<script>
-			//insira a resposta aqui.
-			var obj =
+			console.log('resposta 6');
+			var obj = {
 				nomeObj: 'Mouse',
 				pesoObj: '150g'
 			}
+			//insira a resposta aqui.
 		</script>
 		<div class="border"></div>
 		<!--- PERGUNTA 7 ---->
@@ -102,6 +109,7 @@
 		</ol>
 		<!--- RESPOSTA 7 ---->
 		<script>
+			console.log('resposta 7');
 			//insira a resposta aqui.
 		</script>
 		<div class="border"></div>
@@ -119,6 +127,7 @@
 		<div></div>
 		<div></div>
 		<script>
+			console.log('resposta 8');
 			//insira a resposta aqui.
 		</script>
 		<div class="border"></div>
@@ -143,6 +152,7 @@
 			</ul>
 		</div>
 		<script>
+			console.log('resposta 9');
 			//insira a resposta aqui.
 		</script>
 		<div class="border"></div>
@@ -150,6 +160,7 @@
 		<p>10) Dado o seguinte bloco de código:</p>
 		<pre>function observer() {<br>&nbsp;&nbsp;var target = '';<br>&nbsp;&nbsp;var restSecs = 0;<br>&nbsp;&nbsp;var intervalObserver = setInterval(function() {<br>&nbsp;&nbsp;&nbsp;&nbsp;target = document.querySelector('footer .content');<br>&nbsp;&nbsp;&nbsp;&nbsp;if ($(target).length >= 1 && restSecs &lt;= 5) {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//do something<br>&nbsp;&nbsp;&nbsp;&nbsp;} else if( restSecs==5 ){<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clearInterval(intervalObserver); <br>&nbsp;&nbsp;&nbsp;&nbsp;} else { <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;restSecs++; }<br>&nbsp;&nbsp; }, 1000); <br>} observer();</pre>
 		<script>
+			console.log('resposta 10');
 			function observer() {
 				var target = '';
 				var restSecs = 0;
