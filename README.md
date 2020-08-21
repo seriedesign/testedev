@@ -33,7 +33,6 @@ Sinta-se livre para criar e estruturar o projeto como acha melhor.
 * É permitido o uso de JQuery;
 * As respostas podem devem ser feitas no mesmo arquivo.
 
-
-Ao terminar as duas partes, solicite um pull request.
+Ao terminar as duas partes do teste, solicite um pull request.
 
 **BOA SORTE!**
