@@ -14,8 +14,9 @@ O objetivo deste teste fazer uma página em HTML e CSS, para o layout dado pelo 
 * Não é necessário fazer o carrossel funcionar.
 * Deve-se usar a criatividade e o senso estético para codificar o site;
 * Pode-se usar JavaScript, JQuery, Vue etc., se julgar necessário;
-* É permitido usar qualquer editor de código e consultar a internet.
-* Suporte de Browsers: IE9+, Chrome, Safari, Firefox.
+* É permitido usar qualquer editor de código e consultar a internet;
+* Suporte de Browsers: IE9+, Chrome, Safari, Firefox;
+* Importe as fontes necessárias do Google Fonts;
 * É preferível que não seja usado nenhum frameworks CSS, como Bootstrap, por exemplo.
 
 **Itens avaliados:**
