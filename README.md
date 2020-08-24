@@ -33,19 +33,19 @@ Sinta-se livre para criar e estruturar o projeto como acha melhor.
 * É permitido o uso de JQuery;
 * As respostas podem devem ser feitas no mesmo arquivo.
 
-Ao terminar as duas partes do teste, envie os arquivos zipados para o recrutador.
+Ao terminar as duas partes do teste, você pode enviar ao nosso repositório via Pull Request. Caso tenha dúvida de como fazer isto, este artigo explica muito bem: https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt e, não sendo a única forma, você também pode nos enviar os arquivos zipados ou em algum repositório do git.
 
 **BOA SORTE!**
 
 ```
    ______     ________    ________      __        ________
   /  __  \   |   _____|  |   ___  \    |  |      |   _____|      
- /  /  \__\  |  |        |  |   \  \   |  |      |  | 
- \  \____    |  |___     |  |___/  /   |  |      |  |___ 
+ /  /  \__\  |  |        |  |   \  \   |  |      |  |
+ \  \____    |  |___     |  |___/  /   |  |      |  |___
   \___   \   |   ___|    |   __   /    |  |      |   ___|
- __    \  \  |  |        |  |  \  \    |  |      |  | 
- \  \__/  /  |  |_____   |  |   \  \   |  |  __  |  |_____ 
+ __    \  \  |  |        |  |  \  \    |  |      |  |
+ \  \__/  /  |  |_____   |  |   \  \   |  |  __  |  |_____
   \______/   |________|  |__|    \__\  |__| |__| |________|
- 
- 
+
+
 ```
