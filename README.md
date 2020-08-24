@@ -36,3 +36,16 @@ Sinta-se livre para criar e estruturar o projeto como acha melhor.
 Ao terminar as duas partes do teste, envie os arquivos zipados para o recrutador.
 
 **BOA SORTE!**
+
+```
+   ______     ________    ________      __        ________
+  /  __  \   |   _____|  |   ___  \    |  |      |   _____|      
+ /  /  \__\  |  |        |  |   \  \   |  |      |  | 
+ \  \____    |  |___     |  |___/  /   |  |      |  |___ 
+  \___   \   |   ___|    |   __   /    |  |      |   ___|
+ __    \  \  |  |        |  |  \  \    |  |      |  | 
+ \  \__/  /  |  |_____   |  |   \  \   |  |  __  |  |_____ 
+  \______/   |________|  |__|    \__\  |__| |__| |________|
+ 
+ 
+```
