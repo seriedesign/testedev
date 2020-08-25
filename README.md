@@ -33,7 +33,7 @@ Sinta-se livre para criar e estruturar o projeto como acha melhor.
 * É permitido o uso de JQuery;
 * As respostas podem devem ser feitas no mesmo arquivo.
 
-Ao terminar as duas partes do teste, envie os arquivos zipados para o recrutador.
+Ao terminar as duas partes do teste, você pode nos enviar os arquivos zipados por e-mail ou via link do Wetransfer ou em algum repositório Git.
 
 **BOA SORTE!**
 
