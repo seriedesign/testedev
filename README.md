@@ -5,7 +5,7 @@
 
 ## PARTE I - Teste de HTML e CSS
 
-O objetivo deste teste fazer uma página em HTML e CSS, para o layout dado pelo .psd disponível na pasta .psd, simulando uma loja chamada 'PET Store'.
+O objetivo deste teste fazer uma página em HTML e CSS, para o layout disponível no figma: https://www.figma.com/proto/Q1p4dwPcasnniRIXp0K4Tz/Template-Glowshine?page-id=0%3A1&node-id=202-3654&viewport=-119%2C662%2C0.14&scaling=scale-down&starting-point-node-id=202%3A253.
 
 **Observações:**
 * Os produtos podem ser trazidos em html estático ou sendo puxado por alguma API;
@@ -24,13 +24,14 @@ O objetivo deste teste fazer uma página em HTML e CSS, para o layout dado pelo 
 * fidelidade ao layout proposto;
 * quebras no código responsivo;
 * capricho e cuidado com os elementos (hovers, cursores etc.);
+* criatividade
 
 Sinta-se livre para criar e estruturar o projeto como acha melhor.
 
 ## PARTE II - Teste de Javascript
 
 * Essa parte consiste em 10 perguntas contidas em "parte2/index.html";
-* É permitido o uso de JQuery;
+* Apenas JavaScript puro, sem uso de bibliotecas.
 * As respostas podem devem ser feitas no mesmo arquivo.
 
 Ao terminar as duas partes do teste, você pode nos enviar os arquivos zipados por e-mail ou via link do Wetransfer ou em algum repositório Git.
@@ -40,12 +41,12 @@ Ao terminar as duas partes do teste, você pode nos enviar os arquivos zipados p
 ```
    ______     ________    ________      __        ________
   /  __  \   |   _____|  |   ___  \    |  |      |   _____|      
- /  /  \__\  |  |        |  |   \  \   |  |      |  | 
- \  \____    |  |___     |  |___/  /   |  |      |  |___ 
+ /  /  \__\  |  |        |  |   \  \   |  |      |  |
+ \  \____    |  |___     |  |___/  /   |  |      |  |___
   \___   \   |   ___|    |   __   /    |  |      |   ___|
- __    \  \  |  |        |  |  \  \    |  |      |  | 
- \  \__/  /  |  |_____   |  |   \  \   |  |  __  |  |_____ 
+ __    \  \  |  |        |  |  \  \    |  |      |  |
+ \  \__/  /  |  |_____   |  |   \  \   |  |  __  |  |_____
   \______/   |________|  |__|    \__\  |__| |__| |________|
- 
- 
+
+
 ```
